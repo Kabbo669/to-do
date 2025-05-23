@@ -1,0 +1,14 @@
+body{
+  background: rgb(136, 248, 211);
+}
+.postButton{
+  margin-top: 10px;
+}
+.allPost{
+  flex-wrap: wrap;
+  column-gap: 10px;
+}
+.updateButton{
+  margin-top: 10px;
+  display: none;
+}
